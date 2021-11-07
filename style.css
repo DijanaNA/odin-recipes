@@ -1,0 +1,26 @@
+h1 {
+  font-weight: bold;
+  font-family: cursive;
+}
+
+* {
+  text-align: center;
+  color: chocolate;
+  font-family: "Times New Roman", Times, serif;
+}
+.front-img {
+  width: 300px;
+  height: auto;
+  position: relative;
+}
+
+a {
+  font-size: large;
+}
+
+html {
+  background: linear-gradient(180deg, #7bdbe7, #ddefbb);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-bottom: 16rem;
+}
